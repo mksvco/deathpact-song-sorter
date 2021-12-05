@@ -316,7 +316,7 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       series: [ "ID" ]
     }
-	}
+	},
 		{
     name: "IN MY MIND [DEATHPACT REPRISE]",
     img: "kCMN55F.jpg",

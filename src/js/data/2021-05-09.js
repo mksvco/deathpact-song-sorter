@@ -37,6 +37,13 @@ dataSet[dataSetVersion].characterData = [
       series: [ "canon" ]
     }
   },
+      {
+    name: "Life & Death",
+    img: "kCMN55F.jpg",
+    opts: {
+      series: [ "canon" ]
+    }
+  },
     {
     name: "INTERFERENCE_03",
     img: "kCMN55F.jpg",
